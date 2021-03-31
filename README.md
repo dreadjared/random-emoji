@@ -12,10 +12,11 @@ I have it bound to a keyboard shortcut for convenience
 
 ## Compile
 ```
-javac -classpath path/to/directory/random-emoji RandomEmoji
+javac -classpath path/to/directory/random-emoji RandomEmoji.java
 ```
 
 ## Notes
+The emoji stays on the clipboard for 5 seconds so paste quickly.
 
 I originally got the emojis from some gitlab list but I can't seem to find it.
 
