@@ -1,5 +1,21 @@
 # random-emoji
-Generates random emoji text compatible with slack ie :thumbsup:
+Generates a random emoji text compatible with slack, github, gitlab, etc and copies to the clipboard.
+
+`:thumbsup:` :thumbsup:
+
+## Usage
+```
+java -cp path/to/directory/random-emoji RandomEmoji
+```
+
+I have it bound to a keyboard shortcut for convenience
+
+## Compile
+```
+javac -classpath path/to/directory/random-emoji RandomEmoji
+```
+
+## Notes
 
 I originally got the emojis from some gitlab list but I can't seem to find it.
 
